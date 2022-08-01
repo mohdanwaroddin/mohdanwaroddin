@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohd Anwaroddin
 - 👀 I’m interested in programming and open source contributing...
-- 🌱 I’m currently learning Python Programming.
+- 🌱 Learning Web Development and many more
 
  
 
