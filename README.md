@@ -1,5 +1,5 @@
 
-<table><tr><th width=1000px ><img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="my_image" height="300px" width="500px"></th></tr></table>
+<table><tr><th width=1000px ><img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="my_image" height="300px" width="450px"></th></tr></table>
 <h1 align="center">Hi 👋, I'm Mohd Anwaroddin </h1>
 <h3 align="center">A passionate Full Stack Developer and programming enthusiast from INDIA.</h3>
 
