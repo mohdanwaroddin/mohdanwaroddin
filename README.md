@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdanwaroddin&show_icons=true&locale=en" alt="mohdanwaroddin" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohdanwaroddin&theme=dracula" alt="GitHub Streak" /></a>
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=mohdanwaroddin&theme=dracula" alt="GitHub Streak" /></a>
 
 <!---
 mohdanwaroddin/mohdanwaroddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
