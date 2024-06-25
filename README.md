@@ -3,7 +3,7 @@
 <h1 align="center" >Hi 👋, I'm <b><i>Mohd Anwaroddin </i></b></h1>
 <h3 align="center">A passionate Full Stack Developer and programming enthusiast from INDIA.</h3>
 
-- 🔭 Currently working on an amaizing project, will expose shortly;
+- 🔭 Currently working on an amaizing projects;
 
 - 🌱 Doing **DSA**
 
