@@ -1,15 +1,13 @@
 
 <table><tr><th width=1000px ><img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="my_image" height="300px" width="450px"></th></tr></table>
 <h1 align="center" >Hi 👋, I'm <b><i>Mohd Anwaroddin </i></b></h1>
-<h3 align="center">A passionate Full Stack Developer and programming enthusiast from INDIA.</h3>
+<h3 align="center">A passionate Full Stack Developer and programming enthusiast.</h3>
 
-- 🔭 Currently working on an amaizing projects;
-
-- 🌱 Doing **DSA**
+- 🔭 Working on an amaizing project;
 
 - 👨‍💻 All of my projects are available at **https://github.com/mohdanwaroddin**
 
-- 💬 Ask me about **C++, Java and Web development.**
+- 💬 Ask me about **C++ and Web development.**
 
 - 📫 How to reach me **anwaroddin27@gmail.com**
 
