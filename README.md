@@ -37,9 +37,9 @@
  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdanwaroddin&show_icons=true&locale=en&layout=compact" alt="mohdanwaroddin" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdanwaroddin&show_icons=true&locale=en&layout=compact" alt="mohdanwaroddin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdanwaroddin&show_icons=true&locale=en" alt="mohdanwaroddin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdanwaroddin&show_icons=true&locale=en" alt="mohdanwaroddin" /></p> -->
 
 
 <!---
